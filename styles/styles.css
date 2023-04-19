@@ -1,0 +1,33 @@
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(107, 107, 107);
+} 
+body{
+    background-color: rgb(250, 237, 239);
+}
+a{
+    color: lightslategray;
+}
+a:hover{
+    color: dimgrey;
+}
+.experience{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+ul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+.header{
+   font-weight: bold ;
+}
+.info{
+font-style: italic;
+}
+.name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(107, 107, 107);
+    font-size: larger;
+}
